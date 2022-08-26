@@ -1,0 +1,18 @@
+<mjml>
+    <mj-head>
+        <mj-title>Oculus</mj-title>
+
+        <mj-class name="section-one-background" background-url="https://i.ibb.co/FmHJ41b/quest-background-1.jpg" />
+    </mj-head>
+    <mj-body>
+        <mj-container width="42.5em">
+            <mj-section mj-class='section-one-background'>
+                <mj-column padding="12px 0 32px 0">
+                    <mj-text text-decoration="none">
+                        <a href="/" target="_blank" style="text-decoration: none; color: #626666;">View in browser</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-container>
+    </mj-body>
+</mjml>
