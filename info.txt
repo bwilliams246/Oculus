@@ -26,7 +26,9 @@ https://i.ibb.co/WKDd3JB/measure-what-matters-title.png
     level up title
 https://i.ibb.co/MDznT6S/level-up-title.png
     background 2
-https://i.ibb.co/59PpSNs/background-section-2.jpg   
+https://i.ibb.co/59PpSNs/background-section-2.jpg 
+    background 3
+https://i.ibb.co/xY2gGN4/background-section-3.jpg
     column header 1
 https://i.ibb.co/n1MQgyN/column-header-1.png
     column header 2
